@@ -37,7 +37,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: [Project_nanopi_r4s]
+        target: [Lede_nanopi_r4s]
 
     steps:
     - name: 准备结束
